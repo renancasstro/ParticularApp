@@ -1,6 +1,6 @@
 # TrasporteParticularApp
 
-**objetivo**
+**Objetivo**
 Aplicativo WEB que auxilia na estimativa do cálculo do preço de transporte particular levando em consideraçao a distância a ser percorrida.
 
 **Metodologia:**
