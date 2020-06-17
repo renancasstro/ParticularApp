@@ -9,6 +9,9 @@ O scrip em java gera uma estimativa de valores, baseada nas taxas de alguns apli
 
 _Valores do Estado do Rio de janeiro._
 
-
-
+**Trabalhos Futuros**
+- Acrescentar a variçao das taxas de acordo com os horários/turnos.
+- Acrescentar lista comparativa dos valores de nos diferentes aplicativos de transporte do mercado.
+- Acrescentar calculo de quanto os passageiros pagam x motorista ganha
+- Integraçao com aplicativos para calculo de distâncias sem precisar recorrer a fontes externas.
 
