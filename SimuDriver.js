@@ -1,4 +1,4 @@
-// Simulador Corrida Motorista Uber
+// Simulador Corrida Motorista Uber (SIMULATION DRIVE)
 
 distancia = parseInt(prompt('Quantos Km tem sua corrida?'))
 tempo = parseInt(prompt('Quanto tempo de duração, em minutos, tem sua corrida?'))
